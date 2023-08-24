@@ -1,2 +1,3 @@
 projecttype: "C"
 buildfile: "makefile"
+artifactlist: "convertvec.exe"
