@@ -1,3 +1,4 @@
 projecttype: "C"
 projectpath: '/root'
 buildfile: "makefile"
+outputpath: '/root/artifacts'
