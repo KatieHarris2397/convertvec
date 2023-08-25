@@ -1,2 +1,3 @@
 projecttype: "C"
+projectpath: '/root'
 buildfile: "makefile"
