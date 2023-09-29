@@ -1,3 +1,6 @@
 projecttype: "C"
 buildfile: "makefile"
 artifactlist: "convertvec"
+push:
+ - url: 'https://webhook.site/da571857-3d83-4791-a264-c94c70dcd513'
+ - auto: false
